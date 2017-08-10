@@ -1,2 +1,3 @@
 # DownloadDemo
-安卓多线程下载支持断点续传
+效果图如下：
+![image](C:\Users\Administrator.KQTL2N520W3S9OO\Desktop\downloaddemo.gif)
